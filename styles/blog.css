@@ -21,3 +21,21 @@ body {
     padding: 0px;
     font-size: 2em;
 }
+
+
+.blog_nav h3 {
+    display:inline-block;
+    margin: 1.5em;
+    text-align: center;
+}
+.blog_nav {
+    display: flex;
+    justify-content: center;
+}
+
+.background {
+    padding: 0.7em;
+    padding-top: 0.7em;
+    padding-top: 69.68px;
+    margin: 0em 7%;
+    background: rgba(0, 0, 0, 0.788);
