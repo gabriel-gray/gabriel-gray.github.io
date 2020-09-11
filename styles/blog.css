@@ -37,5 +37,22 @@ body {
     padding: 0.7em;
     padding-top: 0.7em;
     padding-top: 69.68px;
+    margin-left: 1115px;
     margin: 0em 7%;
     background: rgba(0, 0, 0, 0.788);
+}
+
+
+.example {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+img {
+    margin: 1em;
+}
+
+.example p {
+    text-align: center;
+    font-size: 1em;
