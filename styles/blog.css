@@ -56,3 +56,10 @@ img {
 .example p {
     text-align: center;
     font-size: 1em;
+}
+
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}
+    
